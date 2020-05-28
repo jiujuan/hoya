@@ -1,2 +1,2 @@
-# hoyaorm
-a simple go orm
+# hoya
+[todo]
